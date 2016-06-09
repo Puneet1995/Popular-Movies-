@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\HP\Desktop\PopularMovies\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\HP\Desktop\PopularMovies\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-1b1f406db510754de52370fbc824787759d6eb92.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\Desktop\PopularMovies\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\HP\Desktop\PopularMovies\PopularMovies\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-e718b6adf9f896d41b2c18d320f48421fd57cfa0.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\HP\Desktop\PopularMovies\PopularMovies\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-3ddeafdba0996f126b7ad82d9d2c34b594e28de6.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\Desktop\PopularMovies\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\HP\Desktop\PopularMovies\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-2a6901984cd6cc0a30f9022cb9b45f39370554ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\HP\Desktop\PopularMovies\PopularMovies\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-71213672e948e1ded945112dbe899a7d05ecdd4a.jar" />
+    </item>
+
+</items>
